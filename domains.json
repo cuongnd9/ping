@@ -1,0 +1,7 @@
+[
+  "https://petisland-config-service.herokuapp.com",
+  "https://petisland-dev-auth-service.herokuapp.com",
+  "https://petisland-prod-auth-service.herokuapp.com",
+  "https://petisland-dev-news-service.herokuapp.com",
+  "https://petisland-prod-news-service.herokuapp.com"
+]
