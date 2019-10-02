@@ -7,7 +7,8 @@
   "author": "Nguyen Duy Cuong <cuongw.me@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
   },
   "dependencies": {
     "axios": "^0.19.0",
