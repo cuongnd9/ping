@@ -1,4 +1,5 @@
 [
+  "https://node-restful-boilerplate.herokuapp.com",
   "https://petisland-config-service.herokuapp.com",
   "https://petisland-dev-auth-service.herokuapp.com",
   "https://petisland-prod-auth-service.herokuapp.com",
