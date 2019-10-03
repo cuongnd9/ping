@@ -6,7 +6,7 @@ const signale = require('signale');
 
 const app = express();
 
-cron.schedule('*/30 8-23 * * *', () => {
+cron.schedule('*/28 * * * *', () => {
   const data = fs.readFileSync('./domains.json', 'utf8');
   const domains = JSON.parse(data);
   domains.forEach(domain =>
