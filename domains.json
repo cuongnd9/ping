@@ -1,11 +1,7 @@
 [
-  "https://node-restful-boilerplate.herokuapp.com",
-  "https://cuongw-f999591f9a.herokuapp.com",
-  "https://pi-auth-service-56c288f403.herokuapp.com",
-  "https://pi-news-service-bb59bb38b9.herokuapp.com",
+  "https://dev-auth-db-1a7c3ac304.herokuapp.com",
+  "https://dev-news-db-2184808c54.herokuapp.com",
   "https://petisland-config-service.herokuapp.com",
-  "https://petisland-dev-auth-service.herokuapp.com",
-  "https://petisland-prod-auth-service.herokuapp.com",
-  "https://petisland-dev-news-service.herokuapp.com",
-  "https://petisland-prod-news-service.herokuapp.com"
+  "https://dev-auth-service.herokuapp.com",
+  "https://dev-news-service.herokuapp.com"
 ]
