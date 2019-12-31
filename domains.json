@@ -1,9 +1,3 @@
 [
-  "https://node-boilerplate-27ff6ccd6f.herokuapp.com",
-  "https://node-restful-boilerplate.herokuapp.com",
-  "https://dev-auth-db-1a7c3ac304.herokuapp.com",
-  "https://dev-news-db-2184808c54.herokuapp.com",
-  "https://petisland-config-service.herokuapp.com",
-  "https://dev-auth-service.herokuapp.com",
-  "https://dev-news-service.herokuapp.com"
+  "https://tickservice.herokuapp.com"
 ]
